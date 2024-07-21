@@ -12,5 +12,4 @@ The Harshit Store is designed to be a modern, responsive platform that highlight
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 - Bootstrap
